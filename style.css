@@ -1,0 +1,59 @@
+/* Navbar */
+
+.navbar {
+    background-color: #292929;
+    color: #ffffff;
+    padding: 15px 0;
+    text-align: center;
+}
+
+.nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.nav-head-one {
+    margin: 0;
+    font-size: 24px;
+}
+
+/* Navbar end */
+
+/* User form */
+
+.form-container {
+    width: 300px;
+    margin: 50px auto;
+    padding: 60px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.form-container input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+}
+.form-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.form-container a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* User form ended */
+
+
+.body{
+    background-color: #393939;
+}
